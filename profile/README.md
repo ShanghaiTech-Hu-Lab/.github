@@ -1,14 +1,6 @@
-## Hi there 👋
+## Welcome to HuLab@ShanghaiTech! 👋 
 
+If you are already a member of our lab:
 
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- We highly recommend you sign up a github account to get access to our shared project codes!
+- We are now promoting [Hmmm-Workshop](https://github.com/ShanghaiTech-Hu-Lab/Hmmm-WorkShop) in our lab! Click into the link and see the work shop details in Simplified Chinese once you signed up and joined HuLab in GitHub. It's a group effort, and hope we all could get something out of this.
